@@ -1,0 +1,67 @@
+Project3:
+total 56
+-rw-r--r--. 1 myid   114 Jul 16 22:47 #.bash_profile#
+drwxr-xr-x. 2 myid   187 Jul 16 22:07 classes
+drwxr-xr-x. 2 myid    71 Jul 16 21:54 lib
+-rw-r--r--. 1 myid   423 Jul 16 23:12 README.txt
+-rw-r--r--. 1 myid     0 Jul 16 23:14 rec14521
+drwxr-xr-x. 3 myid    25 Jul 16 16:01 src
+drwxr-xr-x. 3 myid    25 Jul 16 18:55 test
+-rw-r--r--. 1 myid 47722 Jul 16 20:42 TestPlan.pdf
+
+Project3/classes:
+total 24
+-rw-r--r--. 1 myid  296 Jul 16 20:51 Editable.class
+-rw-r--r--. 1 myid 1509 Jul 16 20:51 EditableTextLine.class
+-rw-r--r--. 1 myid 6481 Jul 16 23:08 EditableTextLineTester.class
+-rw-r--r--. 1 myid 2219 Jul 16 20:51 TextLine.class
+-rw-r--r--. 1 myid  848 Jul 16 20:51 TextLineIndexOutOfBoundsException.class
+
+Project3/lib:
+total 444
+-rw-r--r--. 1 myid  66997 Jul 16 21:39 hamcrest-core-1.3.jar
+-rw-r--r--. 1 myid 384581 Jul 16 16:28 junit-4.13.2.jar
+
+Project3/src:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 16 16:02 edu
+
+Project3/src/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 16 16:02 uga
+
+Project3/src/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 29 Jul 16 16:02 cs1302
+
+Project3/src/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 143 Jul 16 20:31 txtbuff
+
+Project3/src/edu/uga/cs1302/txtbuff:
+total 20
+-rw-r--r--. 1 myid  261 Jul 16 19:47 Editable.java
+-rw-r--r--. 1 myid 4010 Jul 16 20:31 EditableTextLine.java
+-rw-r--r--. 1 myid  542 Jul 16 19:54 TextLineIndexOutOfBoundsException.java
+-rw-r--r--. 1 myid 4722 Jul 16 19:49 TextLine.java
+
+Project3/test:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 16 18:55 edu
+
+Project3/test/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 16 18:55 uga
+
+Project3/test/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 29 Jul 16 18:56 cs1302
+
+Project3/test/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 49 Jul 16 20:34 txtbuff
+
+Project3/test/edu/uga/cs1302/txtbuff:
+total 12
+-rw-r--r--. 1 myid 11616 Jul 16 20:34 EditableTextLineTester.java
+/home/myid/ltb23581/cs1302/Project3:/home/myid/csci-1302a

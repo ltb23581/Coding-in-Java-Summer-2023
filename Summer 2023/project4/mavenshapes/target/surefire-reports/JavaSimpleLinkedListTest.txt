@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: JavaSimpleLinkedListTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 0.044 s <<< FAILURE! - in JavaSimpleLinkedListTest
+testAdd(JavaSimpleLinkedListTest)  Time elapsed: 0.003 s  <<< FAILURE!
+java.lang.AssertionError: expected:<2> but was:<3>
+	at JavaSimpleLinkedListTest.testAdd(JavaSimpleLinkedListTest.java:19)
+
+testAdd1(JavaSimpleLinkedListTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<1> but was:<2>
+	at JavaSimpleLinkedListTest.testAdd1(JavaSimpleLinkedListTest.java:31)
+
+testIndexOf1(JavaSimpleLinkedListTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<2> but was:<-1>
+	at JavaSimpleLinkedListTest.testIndexOf1(JavaSimpleLinkedListTest.java:149)
+
+testIndexOf2(JavaSimpleLinkedListTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: expected:<0> but was:<-1>
+	at JavaSimpleLinkedListTest.testIndexOf2(JavaSimpleLinkedListTest.java:162)
+
+testIndexOf3(JavaSimpleLinkedListTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<1> but was:<-1>
+	at JavaSimpleLinkedListTest.testIndexOf3(JavaSimpleLinkedListTest.java:175)
+
