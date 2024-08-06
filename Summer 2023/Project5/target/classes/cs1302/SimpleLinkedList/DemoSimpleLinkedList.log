@@ -1,0 +1,49 @@
+sList is empty: no elements: 0
+Adding at end: A B C D E F
+sList is not empty: no elements: 6
+Element at: 0: A
+Element at: 1: B
+Element at: 2: C
+Element at: 3: D
+Element at: 4: E
+Element at: 5: F
+Adding at 6: Z
+Adding at 0: X
+Adding at 1: Y
+sList is not empty: no elements: 9
+Element at: 0: X
+Element at: 1: Y
+Element at: 2: A
+Element at: 3: B
+Element at: 4: C
+Element at: 5: D
+Element at: 6: E
+Element at: 7: F
+Element at: 8: Z
+Removed from: 1: Y
+sList is not empty: no elements: 8
+Element at: 0: X
+Element at: 1: A
+Element at: 2: B
+Element at: 3: C
+Element at: 4: D
+Element at: 5: E
+Element at: 6: F
+Element at: 7: Z
+Removed from: 7: Z
+sList is not empty: no elements: 7
+Element at: 0: X
+Element at: 1: A
+Element at: 2: B
+Element at: 3: C
+Element at: 4: D
+Element at: 5: E
+Element at: 6: F
+Removed from: 0: X
+sList is not empty: no elements: 6
+Element at: 0: A
+Element at: 1: B
+Element at: 2: C
+Element at: 3: D
+Element at: 4: E
+Element at: 5: F
